@@ -1,1 +1,22 @@
-Management + Maintenance Proj (2021/22)
+Management + Maintenance Proj (2021/22) – Week 01
+
+The Company
+South Web Design is a complete service design and development agency. Since 2013 they have consistently focused on innovating in ways that others cannot and being ahead of the curve. Nowadays, we have mobile, tablet, and pc displays, so making sure a responsive plan is considered at the outset of any design conversion is key to success. When targeting these various display types we have to consider not only the size restrictions but also how the devices are viewing the applications. This means we have to ensure the applications built are not only responsive to mobile devices but are also responsive to the numerous browsers found in these devices. 
+
+As the demand for responsive, dynamic and secure websites and web applications increases everyday, so does the demand on infrastructure and resources. The company has expanded rapidly increasing its workforce from 5 to 12 people working on site and 4 developers working remotely. Expansion of the currently overloaded network infrastructure is a priority for the business moving forward with an improved setup and are looking for assistance in setting it up efficiently and securely.
+Linux
+The main requirement of the specification has for the Linux operating system to be used. Linux is a free and open source operation system that be installed on a variety of devices and used to develop software, run programs and more. Linux is built around the kernel. Linux was created in C assembly code to run on i386 processors but it has now been ported to more software than any other operating system. (Linux.com, 2022)
+
+Linux has a high level of stability and performs well on a wide range of networks. It includes robust network support system with the ability to handle a large number of users at once.
+
+This week, the Ubuntu flavour of Linux has been downloaded including the server format and setup using VMWare Workstation. Ubuntu is the modern, open source operating system on Linux for the enterprise server, desktop, cloud, and IoT.  (Ubuntu, 2022)
+
+References
+Linux.com, 2022. Linux.com. [Online] 
+Available at: https://www.linux.com/what-is-linux/
+[Accessed 6th April 2022].
+Ubuntu, 2022. Ubuntu: Enterprise Open Source and Linux. [Online] 
+Available at: https://ubuntu.com
+[Accessed 6th April 2022].
+
+
