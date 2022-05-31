@@ -1,1 +1,15 @@
+---
+- name: Check Disk Space Usage
+  hosts: all
+  tasks:
+          - name: Disk usage from command module
+            command: df -h
+            register: space
+          - debug:
+                  var: space.stdout_lines
+
+    © 2022 GitHub, Inc.
+
+    Terms
+    Privacy
 
